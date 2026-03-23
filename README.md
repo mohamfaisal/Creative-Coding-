@@ -46,6 +46,7 @@ This repository explores various concepts of computer graphics, animation, and i
 
 ## 👨‍💻 Author
 **Mohammed Faisal**, GitHub: @mohamfaisal
+
 **P5.js Sketches Link:** https://editor.p5js.org/faisalferoz2005/sketches
 
 ## 🚀 Getting Started
