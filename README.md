@@ -13,25 +13,25 @@ Welcome to my Creative Coding repository! This project serves as a digital sketc
 
 This repository explores various concepts of computer graphics, animation, and interactivity. Here is a detailed breakdown of the experiments included:
 
-* **`Alien/`**
+* **`Alien`**
   * Generative character design using algorithmic shapes to create animated or static extraterrestrial figures.
-* **`Audio Visualization/`**
+* **`Audio Visualization`**
   * Projects that utilize the `p5.sound` library to map audio frequencies and amplitudes to real-time visual graphics.
-* **`Car/`**
+* **`Car`**
   * Explorations in basic 2D physics, motion, and object-oriented programming to animate and control a vehicle on the canvas.
-* **`Data Visualization/`**
+* **`Data Visualization`**
   * Transforming raw datasets into compelling visual narratives using geometric mapping and color theories.
-* **`Game/`**
+* **`Game`**
   * Interactive web-based mini-games showcasing logic, state management, collision detection, and user input handling.
-* **`Interactve Art/`** *(Interactive Art)*
+* **`Interactve Art`** *(Interactive Art)*
   * Generative canvases that respond dynamically to user interactions such as clicks, drags, and keyboard inputs.
-* **`Mouse Trials/`** *(Mouse Trails)*
+* **`Mouse Trials`** *(Mouse Trails)*
   * Particle systems and kinetic shapes programmed to follow the user's cursor, creating beautiful, fading visual trails.
-* **`Simple Pattern/`**
+* **`Simple Pattern`**
   * Mathematical art utilizing loops (for/while) and trigonometry to generate mesmerizing geometric tessellations and repeating patterns.
-* **`Typography/`**
+* **`Typography`**
   * Kinetic typography experiments manipulating text, fonts, and letterforms dynamically across the screen.
-* **`Work with Images/`**
+* **`Work with Images`**
   * Pixel manipulation and image processing, including custom filters, masking, and extracting color data from loaded images.
 
 ---
